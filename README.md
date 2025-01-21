@@ -8,7 +8,7 @@ welcome to my GitHub profile! I'm a passionate **BI Developer** and **Data Enthu
 - Helping businesses turn data into meaningful stories that drive growth and improve decision-making
 
 📚 My Skills:
-- **Languages**: SQL, Python, DAX, R
+- **Languages**: SQL, Python, DAX
 - **Tools**: Power BI, MicrosStrategy, Tableau, SAP, Excel, SSRS, SSIS
 - **Databases**: Microsoft SQL Server, MySQL, PostgreSQL
 - **Other**: Data Modeling, ETL Processes, Data Warehousing, Analytics
@@ -29,7 +29,7 @@ welcome to my GitHub profile! I'm a passionate **BI Developer** and **Data Enthu
 - LinkedIn: https://www.linkedin.com/in/udo-duruaku
 
 ⚡ Fun fact:
-- I love solving complex puzzles, whether it's data problems or brain teasers. I'm also huge music lover with a passion for ART.
+- I love solving complex puzzles, whether it's data problems or brain teasers. I'm a huge music lover with a passion for ART and FASHION.
 
 <!---
 UdokaD/UdokaD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
