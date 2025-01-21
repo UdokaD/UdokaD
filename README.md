@@ -17,6 +17,7 @@ welcome to my GitHub profile! I'm a passionate **BI Developer** and **Data Enthu
 - Deepening my knowledge of **Advanced Data Analytics**
 - Exploring the world of **Artificial Intelligence** and **Machine Learning**
 - Learning more about **Data Visualization** best practices and techniques
+- Gaining proficiency in building and optimizing **complex ETL processes** to streamline data workflows and improve data pipelines
 
 💞️ I’m looking to collaborate on ...
 - Data-driven projects, particularly around **Business Intelligence** and **Analytics**
