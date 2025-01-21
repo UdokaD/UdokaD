@@ -1,4 +1,4 @@
- 👋 Hi, I’m Udoka,
+ 👋 Hi, I’m Udoka -
 welcome to my GitHub profile! I'm a passionate **BI Developer** and **Data Enthusiast** with a strong focus on transforming data into actionable insights. I love exploring data, building reports, and helping businesses make data-driven decisions.
 
  👀 What I do
